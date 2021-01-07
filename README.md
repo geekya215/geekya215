@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm **Lin Yang**, I usually use my nickname geekya215 on the internet.
+
+- :telescope: I’m currently looking for an internship.
+- 🌱  I’m working on [polygon-x](https://github.com/polygon-x).
+- :crystal_ball: I'm enthusiastic in PL, guitar, and gardening.
+
+
 <!--
 **geekya215/geekya215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
