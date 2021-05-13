@@ -2,9 +2,8 @@
 
 I'm **Lin Yang**. Usually, I use **geekya215** as my nickname on the internet.
 
-- :telescope: I’m currently looking for an internship.
-- 🌱  I’m working on [polygon-x](https://github.com/polygon-x).
-- :crystal_ball: I'm enthusiastic about PL, guitar, and gardening.
+- 🌱 I'm currently working on [polygon-x](https://github.com/polygon-x).
+- 🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
 
 
 <!--
