@@ -2,7 +2,6 @@
 
 I'm **Lin Yang**. Usually, I use **geekya215** as my nickname on the internet.
 
-- 🌱 I'm currently working on [polygon-x](https://github.com/polygon-x).
 - 🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
 
 
