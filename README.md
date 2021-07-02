@@ -2,7 +2,7 @@
 
 I'm **Lin Yang**. Usually, I use **geekya215** as my nickname on the internet.
 
-- 🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
+🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
 
 
 <!--
