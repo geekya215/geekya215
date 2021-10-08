@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm **Lin Yang**.
-
 🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
 
 
