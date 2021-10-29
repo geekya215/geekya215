@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 I'm enthusiastic about HPC, PL, guitar, and gardening.
+🥰 I'm enthusiastic about PL and gardening.
 
 
 <!--
