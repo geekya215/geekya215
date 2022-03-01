@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 I'm enthusiastic about PLT and 🐱 theory.
+🥰 I'm enthusiastic about PLT.
 
 
 <!--
