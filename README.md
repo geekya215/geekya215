@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🥰 I'm enthusiastic about Computer Science.
+🥰 I'm enthusiastic about computer science.
 
 
 <!--
